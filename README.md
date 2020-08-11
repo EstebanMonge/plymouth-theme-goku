@@ -1,6 +1,8 @@
 # Goku Plymouth Theme
 
-A simple test theme with Goku and Debian logos for plymouth
+A simple test theme with Goku and Debian logos for plymouth.
+
+On art directory, maybe is necessary to remove when install the theme, is located the original art converted to SVG.
 
 ## Acknowledgment
 
