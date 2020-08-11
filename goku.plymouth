@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Goku Theme
+Description=A theme that features a Goku image
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/goku
+ScriptFile=/usr/share/plymouth/themes/goku/goku.script
