@@ -14,4 +14,5 @@ Probably you will need only follow steps from Grub2 on forward.
 
 * Goku Vector: https://es.vector.me/browse/805740/goku_2
 * Kame Kanji: https://seeklogo.com/vector-logo/204487/goku
+* Four star ball: https://upload.wikimedia.org/wikipedia/commons/9/94/Dragonball_%284-Star%29.svg 
 * To Goku because is better than others... thanks for saving the world even from him 
